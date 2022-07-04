@@ -1,11 +1,8 @@
 **Description of Task Files for "PersTaskfmri"**
 
-**Applies to Data stored here:** lab server -
-/mnt/delgadolab/jamil/persist/
-
 **Used in publications**:
 
-> Bhanji & Delgado (2014), also see Bhanji, Kim, & Delgado (2016)
+> Bhanji & Delgado (2014), also see Bhanji, Kim, & Delgado (2016), Bhanji, Delgado, & Ray (2021)
 
 **Important Filenames (in the TaskFiles folder):**
 
