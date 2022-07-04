@@ -85,22 +85,24 @@ versions of the task that might be helpful)**
 > number of Persist choices (coded as "1" in the "Persist" column of
 > output for each condition, and divide by the total number of
 > post-setback choices (choices with a "1" or "0" in the Persist column.
-> Missed choices have a "-2" in the "Persist" column).
+> Missed (no reponse) choices have a "-2" in the "Persist" column).
 >
 > The "Switch" column in the output has value "1" when the participant
 > chooses a path that is lower in value than the current path, "0" if
 > they choose the same path or a higher value path.
 >
-> The files named "PathTask" in the SmokPersist and Opiod study folders
-> are designed to be easier to share (and are shorter versions of the
-> task, without Academic framing).
->
 > If a participant does not change their response after a controllable
 > setback (i.e., fails to learn from a mistake), then a setback is
-> received and the study continues on.
+> received and the game continues on.
 >
 > If a participant does not choose a Path in the given time then the
 > highest value path is selected (for first choice in round) or their
 > previous choice is selected (for subsequent choices), and the study
 > continues on (these choices are marked with a value of "-2" in the
-> "Persist" output column.
+> "Persist" output column (indicating a missed response).
+> 
+> Other versions of the task are located in repositories in this 
+> profile - for [Bhanji, Delgado, & Ray (2021](https://github.com/delgado-lab/POUD-PersistenceTask)
+> and [Bhanji, Kim, Delgado (2016)(https://github.com/delgado-lab/PersistTask-JEPG).
+>
+
